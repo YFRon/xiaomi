@@ -1,0 +1,2402 @@
+{
+	"code": 0,
+	"data": [
+		{
+			"nav_id": 940,
+			"nav_name": "11.11\u4e13\u533a",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "10000099",
+							"good_name": "\u5c0f\u7c738",
+							"pic_id": 0,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/008b5bd9c73c145c7aeb7b7f2714648b.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}, {
+							"isNew": true,
+							"good_id": "8685",
+							"good_name": "\u5c0f\u7c73\u6e38\u620f\u672c",
+							"pic_id": 1,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/9b232bbf863196f3a76094b538442d13.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}, {
+							"isNew": true,
+							"good_id": "6222",
+							"good_name": "\u5c0f\u7c73\u7535\u89c64A  32",
+							"pic_id": 2,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/94da49575ae39e39302cf7fe4bb1e062.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}, {
+							"isNew": true,
+							"good_id": "8311",
+							"good_name": "\u624b\u6301\u624b\u673a\u4e91\u53f0",
+							"pic_id": 3,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/9871ab043766412de9f5ea57c648e198.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}, {
+							"isNew": true,
+							"good_id": "7132",
+							"good_name": "\u6237\u5916\u4f11\u95f2\u53cc\u80a9\u5305",
+							"pic_id": 4,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/d8780a786e2234ccc7b6a02ea789d4b9.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}, {
+							"isNew": true,
+							"good_id": "7753",
+							"good_name": "\u8bb0\u5fc6\u7ef5\u62a4\u690e\u8170\u9760",
+							"pic_id": 5,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/cde2b418c6c9b78cd01c2ab274f43f25.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}
+					],
+					"name": "\u8d85\u503c\u6298\u6263"
+				}, {
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "10000117",
+							"good_name": "\u5c0f\u7c738 \u9752\u6625\u7248",
+							"pic_id": 6,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/5cd43d172983af301e3fec45517e0d46.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}, {
+							"isNew": true,
+							"good_id": "8134",
+							"good_name": "\u5c0f\u7c73\u624b\u73af3",
+							"pic_id": 7,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/c875ca86ea5c360297ed7a572394f104.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}, {
+							"isNew": true,
+							"good_id": "8026",
+							"good_name": "\u6444\u50cf\u673a \u4e91\u53f0\u7248",
+							"pic_id": 8,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/65fa75df0a10deb7780629fa4c5f8be0.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}, {
+							"isNew": true,
+							"good_id": "4348",
+							"good_name": "\u626b\u5730\u673a\u5668\u4eba",
+							"pic_id": 9,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/832abc1f7fc7364a3cbed99bd75d2c5a.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}, {
+							"isNew": true,
+							"good_id": "7229",
+							"good_name": "\u7a7a\u6c14\u51c0\u5316\u5668 2S",
+							"pic_id": 10,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/5fac89b0888db70849aa83e5fa440db9.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}, {
+							"isNew": true,
+							"good_id": "3377",
+							"good_name": "\u51c0\u6c34\u5668\uff08\u53a8\u4e0b\u5f0f\uff09",
+							"pic_id": 11,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/b0ec0c81d9a80b0b3ebc912e62c1cc34.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}
+					],
+					"name": "\u4eba\u6c14\u70ed\u5356"
+				}, {
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "8916",
+							"good_name": "\u5c0f\u7c73\u7b14\u8bb0\u672c15.6",
+							"pic_id": 12,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/770b4c80eabfb7e89524e3f5020c7d0e.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}, {
+							"isNew": true,
+							"good_id": "6634",
+							"good_name": "\u5c0f\u7c73\u7535\u89c64A 55",
+							"pic_id": 13,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/83a843f5fe3549dd5caefd8ef61741ca.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}, {
+							"isNew": true,
+							"good_id": "6079",
+							"good_name": "\u5e73\u8861\u8f66Plus",
+							"pic_id": 14,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/e786ae60c1bb030ef0d664d3a1fede6d.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}, {
+							"isNew": true,
+							"good_id": "8634",
+							"good_name": "\u7c73\u5bb6\u4e92\u8054\u7f51\u7a7a\u8c03",
+							"pic_id": 15,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/6c42c680332c1fed7808f2569e6f02ae.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}, {
+							"isNew": true,
+							"good_id": "6621",
+							"good_name": "\u91d1\u5c5e\u767b\u673a\u7bb1",
+							"pic_id": 16,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/be6c01564b24e08563030a5efc0f04e9.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}
+					],
+					"name": "\u53cc11\u9884\u552e"
+				}, {
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "8883",
+							"good_name": "\u5c0f\u7c73\u7b14\u8bb0\u672cAir",
+							"pic_id": 17,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/7a48be362f98df0435a805a08722bd65.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}, {
+							"isNew": true,
+							"good_id": "9029",
+							"good_name": "\u6298\u53e0\u5a74\u513f\u63a8\u8f66",
+							"pic_id": 18,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/b1d54340d6fef64248065736dd5000fa.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}, {
+							"isNew": true,
+							"good_id": "9016",
+							"good_name": "\u84dd\u7259\u8033\u673aAirDots \u9752\u6625\u7248",
+							"pic_id": 19,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/6dc7fd672c0775c00a04bc2a5f9d68ca.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}, {
+							"isNew": true,
+							"good_id": "9039",
+							"good_name": "\u7c73\u5bb6\u7535\u78c1\u7089 \u9752\u6625\u7248",
+							"pic_id": 20,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/070e6a83a004a84f2cfea7a4b614b4b2.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}, {
+							"isNew": true,
+							"good_id": "9015",
+							"good_name": "\u84dd\u7259\u9879\u5708\u8033\u673a\u9752\u6625\u7248",
+							"pic_id": 21,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/2ae374b2448a19493fb4c4a786da339f.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}, {
+							"isNew": true,
+							"good_id": "8914",
+							"good_name": "\u7c73\u5bb6\u5bf9\u8bb2\u673a1S",
+							"pic_id": 22,
+							"good_type_id": 940,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/294efb444a61673917ed4ba49dae0c2b.jpg",
+							"good_category": "11.11\u4e13\u533a"
+						}
+					],
+					"name": "\u65b0\u54c1\u9996\u53d1"
+				}
+			],
+			"img_url": "//i8.mifile.cn/v1/a1/3209d17d-ef9a-abed-aed8-dd303096e5b7.webp?w=750&h=300&bg=B8BDD0",
+			"rpic_id": 0
+		}, {
+			"nav_id": 653,
+			"nav_name": "\u65b0\u54c1",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "10000123",
+							"good_name": "\u5c0f\u7c73MIX 3",
+							"pic_id": 23,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/8dbd523e76673afb58e16e3f74520735.png",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "10000117",
+							"good_name": "\u5c0f\u7c738 \u9752\u6625\u7248",
+							"pic_id": 24,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/51c53855defb28d558d71e02e0ae747d.png",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "10000118",
+							"good_name": "\u5c0f\u7c738 \u5c4f\u5e55\u6307\u7eb9\u7248",
+							"pic_id": 25,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/197587a8281cb9b62e73e94473605e7e.png",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "10000099",
+							"good_name": "\u5c0f\u7c738",
+							"pic_id": 26,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/86020260a41e530fdc1f2f0b67ed5dd1.png",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "10000100",
+							"good_name": "\u5c0f\u7c738 SE",
+							"pic_id": 27,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/9e83a65a8bd46880870173c43f514b7c.png",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "10000111",
+							"good_name": "\u5c0f\u7c73Max 3",
+							"pic_id": 28,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/96d88d3beb17fc78fb930afe2f313f14.png",
+							"good_category": "\u65b0\u54c1"
+						}
+					],
+					"name": "\u624b\u673a"
+				}, {
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "8911",
+							"good_name": "58\u82f1\u5bf8\u7535\u89c64A",
+							"pic_id": 29,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/90553f751c9eb6bda9a2ae7c4bce012b.jpg",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "8909",
+							"good_name": "40\u82f1\u5bf8 \u7535\u89c64C",
+							"pic_id": 30,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/2996355ec2c73f64f77b3abaae900958.jpg",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "8912",
+							"good_name": "43\u82f1\u5bf8 4X",
+							"pic_id": 31,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/560d61b0a2b290d2eb2b1291df1f1629.jpg",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "8990",
+							"good_name": "65\"\u7535\u89c64\u65d7\u8230\u7248",
+							"pic_id": 32,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/dd9d4b0def5801e3cadd96c69dae6976.jpg",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "8908",
+							"good_name": "65\u82f1\u5bf8 Pro 4S",
+							"pic_id": 33,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/e7de579c7c261b0bf73cf0e24f5332f4.jpg",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "8111",
+							"good_name": "55\u82f1\u5bf8 4X",
+							"pic_id": 34,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/4129babe8bee3dd1c9ddcbb112b319f5.jpg",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "687",
+							"good_name": "32-40\u82f1\u5bf8",
+							"pic_id": 65,
+							"good_type_id": 458,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/033cfa4ab48b9d776dcb69e730022561.png",
+							"good_category": "\u7535\u89c6"
+						}, {
+							"isNew": true,
+							"good_id": "322",
+							"good_name": "43\u82f1\u5bf8",
+							"pic_id": 66,
+							"good_type_id": 458,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/e84d9b98b558bb57632be6dc794455e7.png",
+							"good_category": "\u7535\u89c6"
+						}, {
+							"isNew": true,
+							"good_id": "143",
+							"good_name": "49-50\u82f1\u5bf8",
+							"pic_id": 67,
+							"good_type_id": 458,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/54fc8e14d50a2abde556a30b74c41a99.jpg",
+							"good_category": "\u7535\u89c6"
+						}, {
+							"isNew": true,
+							"good_id": "326",
+							"good_name": "55-58\u82f1\u5bf8",
+							"pic_id": 68,
+							"good_type_id": 458,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/90553f751c9eb6bda9a2ae7c4bce012b.jpg",
+							"good_category": "\u7535\u89c6"
+						}, {
+							"isNew": true,
+							"good_id": "834",
+							"good_name": "65-75\u82f1\u5bf8",
+							"pic_id": 69,
+							"good_type_id": 458,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/bf2dc71cbf6fa8413b7ade09719155a0.jpg",
+							"good_category": "\u7535\u89c6"
+						}, {
+							"isNew": true,
+							"good_id": "6158",
+							"good_name": "\u6fc0\u5149\u6295\u5f71\u7535\u89c6",
+							"pic_id": 70,
+							"good_type_id": 458,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/39d81eb1904706403a9aa8685c6ab35e.jpg",
+							"good_category": "\u7535\u89c6"
+						}
+					],
+					"name": "\u7535\u89c6"
+				}, {
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "8915",
+							"good_name": "15.6\"\u7b14\u8bb0\u672c",
+							"pic_id": 35,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/e01485ee6cfc1da96522f897e3e30102.jpg",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "8883",
+							"good_name": "13.3\" i3 \u94f6\u8272\u7248",
+							"pic_id": 36,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/6983ac857577e9ea2e639cf90a4033e5.jpg",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "10000032",
+							"good_name": "12.5\"office\u7248",
+							"pic_id": 37,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/5c14cc0183352b8d6f4751a84016756c.png",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "385",
+							"good_name": "\u5c0f\u7c73Air 12.5\"",
+							"pic_id": 81,
+							"good_type_id": 459,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/b082be9c2d30f3994a557a4aca91d341.jpg",
+							"good_category": "\u7535\u8111"
+						}, {
+							"isNew": true,
+							"good_id": "386",
+							"good_name": "\u5c0f\u7c73Air 13.3\"",
+							"pic_id": 82,
+							"good_type_id": 459,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/3385f8309f3e90669d7ea94ad7d3bab4.jpg",
+							"good_category": "\u7535\u8111"
+						}, {
+							"isNew": true,
+							"good_id": "703",
+							"good_name": "\u5c0f\u7c73\u7b14\u8bb0\u672c 15.6\"",
+							"pic_id": 83,
+							"good_type_id": 459,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/017f3d87c70b1f5ad1be446549d36de5.png",
+							"good_category": "\u7535\u8111"
+						}, {
+							"isNew": true,
+							"good_id": "516",
+							"good_name": "\u5c0f\u7c73Pro 15.6\"",
+							"pic_id": 84,
+							"good_type_id": 459,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/0643559b70964014c1d672cc783121d2.jpg",
+							"good_category": "\u7535\u8111"
+						}, {
+							"isNew": true,
+							"good_id": "770",
+							"good_name": "\u5c0f\u7c73\u6e38\u620f\u672c",
+							"pic_id": 85,
+							"good_type_id": 459,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/9b232bbf863196f3a76094b538442d13.jpg",
+							"good_category": "\u7535\u8111"
+						}, {
+							"isNew": true,
+							"good_id": "10000108",
+							"good_name": "\u5c0f\u7c73\u5e73\u677f",
+							"pic_id": 86,
+							"good_type_id": 459,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/2e24730eb6fb2963b9b59493a6e5a0c7.jpg",
+							"good_category": "\u7535\u8111"
+						}
+					],
+					"name": "\u7535\u8111"
+				}
+			],
+			"img_url": "//i8.mifile.cn/v1/a1/99cf44ff-029b-c59b-a791-b8cec508492b.webp?w=750&h=300&bg=8685B6",
+			"rpic_id": 1
+		}, {
+			"nav_id": 457,
+			"nav_name": "\u624b\u673a",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "10000123",
+							"good_name": "\u5c0f\u7c73MIX 3",
+							"pic_id": 38,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/8dbd523e76673afb58e16e3f74520735.png",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "10000117",
+							"good_name": "\u5c0f\u7c738 \u9752\u6625\u7248",
+							"pic_id": 39,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/51c53855defb28d558d71e02e0ae747d.png",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "10000118",
+							"good_name": "\u5c0f\u7c738 \u5c4f\u5e55\u6307\u7eb9\u7248",
+							"pic_id": 40,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/197587a8281cb9b62e73e94473605e7e.png",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "832",
+							"good_name": "\u5c0f\u7c738",
+							"pic_id": 41,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/86020260a41e530fdc1f2f0b67ed5dd1.png",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "10000100",
+							"good_name": "\u5c0f\u7c738 SE",
+							"pic_id": 42,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/9e83a65a8bd46880870173c43f514b7c.png",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "10000085",
+							"good_name": "\u5c0f\u7c73MIX 2S",
+							"pic_id": 43,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/06cabb01bbe4ac5c819ee101e4446a16.png",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "10000111",
+							"good_name": "\u5c0f\u7c73Max 3",
+							"pic_id": 44,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/96d88d3beb17fc78fb930afe2f313f14.png",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "10000091",
+							"good_name": "\u5c0f\u7c736X",
+							"pic_id": 45,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/32468f88d5ef767f43044d7db46960a2.png",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "10000122",
+							"good_name": "\u9ed1\u9ca8\u624b\u673a Helo",
+							"pic_id": 46,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/5852c85cf4e1461ae7744f632144b034.png",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "10000089",
+							"good_name": "\u9ed1\u9ca8\u6e38\u620f\u624b\u673a",
+							"pic_id": 47,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/745cd6cbffce6a1c1c1cafbd5abbfed0.png",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "10000070",
+							"good_name": "\u5c0f\u7c73MIX 2",
+							"pic_id": 48,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/95e18c104b398643101805287a00ad2b.png",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "10000057",
+							"good_name": "\u5c0f\u7c73Max 2",
+							"pic_id": 49,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/88bc9af6c3bd4e7a695060fe628971e8.png",
+							"good_category": "\u624b\u673a"
+						}
+					],
+					"name": "\u5c0f\u7c73\u624b\u673a"
+				}, {
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "10000107",
+							"good_name": "\u7ea2\u7c736 Pro",
+							"pic_id": 50,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/b5f94d8953aa1400b97e15849863f00e.png",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "10000103",
+							"good_name": "\u7ea2\u7c736",
+							"pic_id": 51,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/448a0fcd77e25873cd730a1423d2f6df.png",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "10000110",
+							"good_name": "\u7ea2\u7c736A",
+							"pic_id": 52,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/03dfeb60ec59ba6738a58f33b819ddb1.png",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "10000084",
+							"good_name": "\u7ea2\u7c73Note 5",
+							"pic_id": 53,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/dd74d7ab56d775fc95ab11497c2494e3.png",
+							"good_category": "\u624b\u673a"
+						}
+					],
+					"name": "\u7ea2\u7c73\u624b\u673a"
+				}, {
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "8384",
+							"good_name": "\u7ea2\u7c736 Pro",
+							"pic_id": 54,
+							"good_type_id": 457,
+							"good_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b5f94d8953aa1400b97e15849863f00e.png",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "8278",
+							"good_name": "\u7ea2\u7c736",
+							"pic_id": 55,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/448a0fcd77e25873cd730a1423d2f6df.png",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "8275",
+							"good_name": "\u7ea2\u7c736A",
+							"pic_id": 56,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/03dfeb60ec59ba6738a58f33b819ddb1.png",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "7882",
+							"good_name": "\u5c0f\u7c73MIX 2S",
+							"pic_id": 57,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/209cdc7c6b58588d6d20569ac0ffd895.png",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "7767",
+							"good_name": "\u7ea2\u7c73Note 5",
+							"pic_id": 58,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/dd74d7ab56d775fc95ab11497c2494e3.png",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "787",
+							"good_name": "\u7ea2\u7c735 Plus",
+							"pic_id": 59,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/5b0e5782bbd17756bbe62b0fd0105070.png",
+							"good_category": "\u624b\u673a"
+						}
+					],
+					"name": "\u79fb\u52a84G+\u4e13\u533a"
+				}, {
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "2162800013",
+							"good_name": "\u5b9a\u4f4d\u7535\u8bdd",
+							"pic_id": 60,
+							"good_type_id": 457,
+							"good_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f56e7030f11712746a6ba8f3002e6064.png",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "611",
+							"good_name": "\u5145\u7535\u5668",
+							"pic_id": 61,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/59636873fd6717e6e67cc7d7b96e50f1.png",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "502",
+							"good_name": "\u6570\u636e\u7ebf",
+							"pic_id": 62,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/v1/a1/b0580f26-ce5f-a53e-c4ef-6adaf4b798f9!200x200.jpg",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "507",
+							"good_name": "\u8d34\u819c",
+							"pic_id": 63,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/a30fca95d954ee856f0c4e98e8095988.png",
+							"good_category": "\u624b\u673a"
+						}, {
+							"isNew": true,
+							"good_id": "896",
+							"good_name": "\u4fdd\u62a4\u58f3",
+							"pic_id": 64,
+							"good_type_id": 457,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/922894ce8aaa1036f55166070815eec0.png",
+							"good_category": "\u624b\u673a"
+						}
+					],
+					"name": "\u624b\u673a\u914d\u4ef6"
+				}
+			],
+			"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/69bf9d06a7285a70adbec96448d5377c.jpg?w=750&h=300&bg=FFFFFF",
+			"rpic_id": 2
+		}, {
+			"nav_id": 458,
+			"nav_name": "\u7535\u89c6",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "8911",
+							"good_name": "58\u82f1\u5bf8\u7535\u89c64A",
+							"pic_id": 29,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/90553f751c9eb6bda9a2ae7c4bce012b.jpg",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "8909",
+							"good_name": "40\u82f1\u5bf8 \u7535\u89c64C",
+							"pic_id": 30,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/2996355ec2c73f64f77b3abaae900958.jpg",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "8912",
+							"good_name": "43\u82f1\u5bf8 4X",
+							"pic_id": 31,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/560d61b0a2b290d2eb2b1291df1f1629.jpg",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "8990",
+							"good_name": "65\"\u7535\u89c64\u65d7\u8230\u7248",
+							"pic_id": 32,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/dd9d4b0def5801e3cadd96c69dae6976.jpg",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "8908",
+							"good_name": "65\u82f1\u5bf8 Pro 4S",
+							"pic_id": 33,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/e7de579c7c261b0bf73cf0e24f5332f4.jpg",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "8111",
+							"good_name": "55\u82f1\u5bf8 4X",
+							"pic_id": 34,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/4129babe8bee3dd1c9ddcbb112b319f5.jpg",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "687",
+							"good_name": "32-40\u82f1\u5bf8",
+							"pic_id": 65,
+							"good_type_id": 458,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/033cfa4ab48b9d776dcb69e730022561.png",
+							"good_category": "\u7535\u89c6"
+						}, {
+							"isNew": true,
+							"good_id": "322",
+							"good_name": "43\u82f1\u5bf8",
+							"pic_id": 66,
+							"good_type_id": 458,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/e84d9b98b558bb57632be6dc794455e7.png",
+							"good_category": "\u7535\u89c6"
+						}, {
+							"isNew": true,
+							"good_id": "143",
+							"good_name": "49-50\u82f1\u5bf8",
+							"pic_id": 67,
+							"good_type_id": 458,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/54fc8e14d50a2abde556a30b74c41a99.jpg",
+							"good_category": "\u7535\u89c6"
+						}, {
+							"isNew": true,
+							"good_id": "326",
+							"good_name": "55-58\u82f1\u5bf8",
+							"pic_id": 68,
+							"good_type_id": 458,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/90553f751c9eb6bda9a2ae7c4bce012b.jpg",
+							"good_category": "\u7535\u89c6"
+						}, {
+							"isNew": true,
+							"good_id": "834",
+							"good_name": "65-75\u82f1\u5bf8",
+							"pic_id": 69,
+							"good_type_id": 458,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/bf2dc71cbf6fa8413b7ade09719155a0.jpg",
+							"good_category": "\u7535\u89c6"
+						}, {
+							"isNew": true,
+							"good_id": "6158",
+							"good_name": "\u6fc0\u5149\u6295\u5f71\u7535\u89c6",
+							"pic_id": 70,
+							"good_type_id": 458,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/39d81eb1904706403a9aa8685c6ab35e.jpg",
+							"good_category": "\u7535\u89c6"
+						}
+					],
+					"name": "\u7535\u89c6"
+				}, {
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "7599",
+							"good_name": "\u76d2\u5b504",
+							"pic_id": 71,
+							"good_type_id": 458,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/6f2896bb755fc5bc90c6d5db716660eb.jpg",
+							"good_category": "\u7535\u89c6"
+						}, {
+							"isNew": true,
+							"good_id": "7598",
+							"good_name": "\u76d2\u5b504c",
+							"pic_id": 72,
+							"good_type_id": 458,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/18c9cf8de4d55c5d41fe63028b92f4b2.jpg",
+							"good_category": "\u7535\u89c6"
+						}, {
+							"isNew": true,
+							"good_id": "2164600007",
+							"good_name": "\u76d2\u5b503s",
+							"pic_id": 73,
+							"good_type_id": 458,
+							"good_img": "//i8.mifile.cn/v1/a1/2ba96ac5-dff1-4ee3-663a-3ae893fb73b9!200x200.jpg",
+							"good_category": "\u7535\u89c6"
+						}, {
+							"isNew": true,
+							"good_id": "2172200005",
+							"good_name": "\u76d2\u5b503\u589e\u5f3a\u7248",
+							"pic_id": 74,
+							"good_type_id": 458,
+							"good_img": "//i8.mifile.cn/v1/a1/T16AhgBCVv1RXrhCrK.jpg",
+							"good_category": "\u7535\u89c6"
+						}
+					],
+					"name": "\u76d2\u5b50"
+				}, {
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "7808",
+							"good_name": "\u5c0f\u7c73\u7535\u89c6\u97f3\u54cd",
+							"pic_id": 75,
+							"good_type_id": 458,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/665274982e2ce86c3fce921127e9dccd.jpg",
+							"good_category": "\u7535\u89c6"
+						}
+					],
+					"name": "\u97f3\u7bb1"
+				}, {
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "2164900001",
+							"good_name": "\u4f1a\u5458\u5361",
+							"pic_id": 76,
+							"good_type_id": 458,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/114ee8a84c2080d15a167d1d23f5cf62.png",
+							"good_category": "\u7535\u89c6"
+						}, {
+							"isNew": true,
+							"good_id": "513",
+							"good_name": "\u9065\u63a7\u5668",
+							"pic_id": 77,
+							"good_type_id": 458,
+							"good_img": "//i8.mifile.cn/v1/a1/T1gox_BsWT1RXrhCrK!200x200.jpg",
+							"good_category": "\u7535\u89c6"
+						}, {
+							"isNew": true,
+							"good_id": "514",
+							"good_name": "\u7ebf\u6750\u8f6c\u63a5\u5668",
+							"pic_id": 78,
+							"good_type_id": 458,
+							"good_img": "//i8.mifile.cn/v1/a1/bc66bce5-6674-2d6f-25b6-0167bbb6affa!200x200.jpg",
+							"good_category": "\u7535\u89c6"
+						}, {
+							"isNew": true,
+							"good_id": "673",
+							"good_name": "\u5b89\u88c5\u670d\u52a1",
+							"pic_id": 79,
+							"good_type_id": 458,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/07f6f6c592ed9bb6d6feea460b021c7e.png",
+							"good_category": "\u7535\u89c6"
+						}, {
+							"isNew": true,
+							"good_id": "4587",
+							"good_name": "\u9ea6\u514b\u98ce",
+							"pic_id": 80,
+							"good_type_id": 458,
+							"good_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/161b5d9d91ffbb0a47681b36d7ea6e17.png",
+							"good_category": "\u7535\u89c6"
+						}
+					],
+					"name": "\u7535\u89c6\u914d\u4ef6\u4e0e\u4f1a\u5458"
+				}
+			],
+			"img_url": "//i8.mifile.cn/v1/a1/efdcf401-f553-aef7-1751-43854b6f4a20.webp?w=750&h=300&bg=7F97B1",
+			"rpic_id": 3
+		}, {
+			"nav_id": 459,
+			"nav_name": "\u7535\u8111",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "8915",
+							"good_name": "15.6\"\u7b14\u8bb0\u672c",
+							"pic_id": 35,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/e01485ee6cfc1da96522f897e3e30102.jpg",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "8883",
+							"good_name": "13.3\" i3 \u94f6\u8272\u7248",
+							"pic_id": 36,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/6983ac857577e9ea2e639cf90a4033e5.jpg",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "10000032",
+							"good_name": "12.5\"office\u7248",
+							"pic_id": 37,
+							"good_type_id": 653,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/5c14cc0183352b8d6f4751a84016756c.png",
+							"good_category": "\u65b0\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "385",
+							"good_name": "\u5c0f\u7c73Air 12.5\"",
+							"pic_id": 81,
+							"good_type_id": 459,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/b082be9c2d30f3994a557a4aca91d341.jpg",
+							"good_category": "\u7535\u8111"
+						}, {
+							"isNew": true,
+							"good_id": "386",
+							"good_name": "\u5c0f\u7c73Air 13.3\"",
+							"pic_id": 82,
+							"good_type_id": 459,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/3385f8309f3e90669d7ea94ad7d3bab4.jpg",
+							"good_category": "\u7535\u8111"
+						}, {
+							"isNew": true,
+							"good_id": "703",
+							"good_name": "\u5c0f\u7c73\u7b14\u8bb0\u672c 15.6\"",
+							"pic_id": 83,
+							"good_type_id": 459,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/017f3d87c70b1f5ad1be446549d36de5.png",
+							"good_category": "\u7535\u8111"
+						}, {
+							"isNew": true,
+							"good_id": "516",
+							"good_name": "\u5c0f\u7c73Pro 15.6\"",
+							"pic_id": 84,
+							"good_type_id": 459,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/0643559b70964014c1d672cc783121d2.jpg",
+							"good_category": "\u7535\u8111"
+						}, {
+							"isNew": true,
+							"good_id": "770",
+							"good_name": "\u5c0f\u7c73\u6e38\u620f\u672c",
+							"pic_id": 85,
+							"good_type_id": 459,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/9b232bbf863196f3a76094b538442d13.jpg",
+							"good_category": "\u7535\u8111"
+						}, {
+							"isNew": true,
+							"good_id": "10000108",
+							"good_name": "\u5c0f\u7c73\u5e73\u677f",
+							"pic_id": 86,
+							"good_type_id": 459,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/2e24730eb6fb2963b9b59493a6e5a0c7.jpg",
+							"good_category": "\u7535\u8111"
+						}
+					],
+					"name": "\u7535\u8111"
+				}, {
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "517",
+							"good_name": "\u9f20\u6807/\u9f20\u6807\u57ab",
+							"pic_id": 87,
+							"good_type_id": 459,
+							"good_img": "//i8.mifile.cn/v1/a1/2ca61893-68b9-d0a0-5f85-bdc28e655a3e!200x200.jpg",
+							"good_category": "\u7535\u8111"
+						}, {
+							"isNew": true,
+							"good_id": "7865",
+							"good_name": "\u673a\u68b0\u952e\u76d8 \u9759\u97f3\u7248",
+							"pic_id": 88,
+							"good_type_id": 459,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/c2e3d79c25246cab7e12e6b7725ae8c1.png",
+							"good_category": "\u7535\u8111"
+						}, {
+							"isNew": true,
+							"good_id": "5499",
+							"good_name": "\u673a\u68b0\u952e\u76d8",
+							"pic_id": 89,
+							"good_type_id": 459,
+							"good_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/12925f99d858e3155c4bb3ecd1f37ae7.png",
+							"good_category": "\u7535\u8111"
+						}, {
+							"isNew": true,
+							"good_id": "8133",
+							"good_name": "\u6e38\u620f\u952e\u76d8",
+							"pic_id": 90,
+							"good_type_id": 459,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/15f82d6626ecb578615a1ae3ec3233f7.jpg",
+							"good_category": "\u7535\u8111"
+						}, {
+							"isNew": true,
+							"good_id": "519",
+							"good_name": "\u8f6c\u63a5\u7ebf/\u7535\u6e90",
+							"pic_id": 91,
+							"good_type_id": 459,
+							"good_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/08cdff9da904a7846813b004bccd6ccd.png",
+							"good_category": "\u7535\u8111"
+						}, {
+							"isNew": true,
+							"good_id": "844",
+							"good_name": "\u6e38\u620f\u9f20\u6807",
+							"pic_id": 92,
+							"good_type_id": 459,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/62436f0277f807c9b15062a8fbe1f432.jpg",
+							"good_category": "\u7535\u8111"
+						}, {
+							"isNew": true,
+							"good_id": "845",
+							"good_name": "\u7b14\u8bb0\u672c\u53cc\u80a9\u5305",
+							"pic_id": 93,
+							"good_type_id": 459,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/970fb11e09beebe33e4c555b1b1d8bed.jpg",
+							"good_category": "\u7535\u8111"
+						}, {
+							"isNew": true,
+							"good_id": "846",
+							"good_name": "\u9002\u914d\u5668",
+							"pic_id": 94,
+							"good_type_id": 459,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/30ecdbcb5d6f0dce50bfaea4a5c21020.jpg",
+							"good_category": "\u7535\u8111"
+						}
+					],
+					"name": "\u7535\u8111\u914d\u4ef6"
+				}
+			],
+			"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/17dbc837b82de528f8f4abf4ede0753a.jpg?w=750&h=300&bg=FFFFFF",
+			"rpic_id": 4
+		}, {
+			"nav_id": 460,
+			"nav_name": "\u5bb6\u7535",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "8634",
+							"good_name": "\u7a7a\u8c03",
+							"pic_id": 95,
+							"good_type_id": 460,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/3f00551566f5b5f08f843403d8688a84.png",
+							"good_category": "\u5bb6\u7535"
+						}, {
+							"isNew": true,
+							"good_id": "116",
+							"good_name": "\u51c0\u5316\u5668",
+							"pic_id": 96,
+							"good_type_id": 460,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/91eae10cc3b97bbb31d17048689a3e64.jpg",
+							"good_category": "\u5bb6\u7535"
+						}, {
+							"isNew": true,
+							"good_id": "8131",
+							"good_name": "\u843d\u5730\u6247",
+							"pic_id": 97,
+							"good_type_id": 460,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/d7252fb58f592cd9a889ffb795c2936e.png",
+							"good_category": "\u5bb6\u7535"
+						}, {
+							"isNew": true,
+							"good_id": "401",
+							"good_name": "\u626b\u5730\u673a",
+							"pic_id": 98,
+							"good_type_id": 460,
+							"good_img": "//i8.mifile.cn/v1/a1/101e2128-624d-ce9f-973f-50b868f8036a.png",
+							"good_category": "\u5bb6\u7535"
+						}, {
+							"isNew": true,
+							"good_id": "715",
+							"good_name": "\u7c73\u5bb6\u6295\u5f71\u4eea",
+							"pic_id": 99,
+							"good_type_id": 460,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/fcc4ecc8a1f9c02387b4bd3658d2dea0.jpg",
+							"good_category": "\u5bb6\u7535"
+						}, {
+							"isNew": true,
+							"good_id": "153",
+							"good_name": "\u51c0\u6c34\u5668",
+							"pic_id": 100,
+							"good_type_id": 460,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/8067837a77601ae4c7c784b97378c352.jpg",
+							"good_category": "\u5bb6\u7535"
+						}, {
+							"isNew": true,
+							"good_id": "9017",
+							"good_name": "\u65b0\u98ce\u673a",
+							"pic_id": 101,
+							"good_type_id": 460,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/2640216530cb7b6e5d7985b466b6f8e4.jpg",
+							"good_category": "\u5bb6\u7535"
+						}
+					],
+					"name": "\u5bb6\u7535"
+				}, {
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "303",
+							"good_name": "\u7535\u996d\u7172",
+							"pic_id": 102,
+							"good_type_id": 460,
+							"good_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a9370fface3457e13c0db169f650fa05.png",
+							"good_category": "\u5bb6\u7535"
+						}, {
+							"isNew": true,
+							"good_id": "886",
+							"good_name": "\u7535\u78c1\u7089",
+							"pic_id": 103,
+							"good_type_id": 460,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/7382a91d1f2611ce859bd6fd8578c994.jpg",
+							"good_category": "\u5bb6\u7535"
+						}, {
+							"isNew": true,
+							"good_id": "724",
+							"good_name": "\u53a8\u623f\u7528\u5177",
+							"pic_id": 104,
+							"good_type_id": 460,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/acfae15934da62b1c894204ed877beb4.jpg",
+							"good_category": "\u5bb6\u7535"
+						}, {
+							"isNew": true,
+							"good_id": "436",
+							"good_name": "\u51c0\u6c34\u5668\u6ee4\u82af",
+							"pic_id": 105,
+							"good_type_id": 460,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/d8c9f2fc405ad796c8c987bec0a107da.jpg",
+							"good_category": "\u5bb6\u7535"
+						}, {
+							"isNew": true,
+							"good_id": "857",
+							"good_name": "\u6ee4\u6c34\u58f6",
+							"pic_id": 106,
+							"good_type_id": 460,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/7f7cbcf34813b2317a9f207db024bd35.jpg",
+							"good_category": "\u5bb6\u7535"
+						}, {
+							"isNew": true,
+							"good_id": "353",
+							"good_name": "\u6c34\u58f6",
+							"pic_id": 107,
+							"good_type_id": 460,
+							"good_img": "//i8.mifile.cn/v1/a1/91cd8c44-11ca-79bd-429f-de882bdeaf3b.png",
+							"good_category": "\u5bb6\u7535"
+						}, {
+							"isNew": true,
+							"good_id": "2387",
+							"good_name": "\u6c34\u8d28\u68c0\u6d4b\u7b14",
+							"pic_id": 108,
+							"good_type_id": 460,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/d4f4540e0c172e629e74474ce6a19c14.jpg",
+							"good_category": "\u5bb6\u7535"
+						}, {
+							"isNew": true,
+							"good_id": "8784",
+							"good_name": "\u6599\u7406\u673a",
+							"pic_id": 109,
+							"good_type_id": 460,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/dfc691fde2b9b9e68516fdfbfc48bba1.png",
+							"good_category": "\u5bb6\u7535"
+						}
+					],
+					"name": "\u53a8\u623f\u5bb6\u7535"
+				}
+			],
+			"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f1042af20f63f37c30bd9399efdc0b7a.jpg?w=750&h=300&bg=FFFFFF",
+			"rpic_id": 5
+		}, {
+			"nav_id": 462,
+			"nav_name": "\u8def\u7531",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "8645",
+							"good_name": "\u8def\u7531\u56684C",
+							"pic_id": 110,
+							"good_type_id": 462,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/d476bc82dbb8e04cfbd4191bb5099ac0.jpg",
+							"good_category": "\u8def\u7531"
+						}, {
+							"isNew": true,
+							"good_id": "8357",
+							"good_name": "\u8def\u7531\u56684Q",
+							"pic_id": 111,
+							"good_type_id": 462,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/45783652edc68726f36e97c76551da18.png",
+							"good_category": "\u8def\u7531"
+						}, {
+							"isNew": true,
+							"good_id": "8105",
+							"good_name": "\u8def\u7531\u56684",
+							"pic_id": 112,
+							"good_type_id": 462,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/4a2ad549aa584ccca8b2b5b4b3dc141f.jpg",
+							"good_category": "\u8def\u7531"
+						}, {
+							"isNew": true,
+							"good_id": "5663",
+							"good_name": "\u8def\u7531\u5668Pro",
+							"pic_id": 113,
+							"good_type_id": 462,
+							"good_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/651a9878ffafc9e9a053d430fedddaa1.png",
+							"good_category": "\u8def\u7531"
+						}, {
+							"isNew": true,
+							"good_id": "8095",
+							"good_name": "\u5c0f\u7c73\u8def\u7531\u5668 HD",
+							"pic_id": 114,
+							"good_type_id": 462,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/57a598ecdccfd96d2006028d590699e3.jpg",
+							"good_category": "\u8def\u7531"
+						}, {
+							"isNew": true,
+							"good_id": "5606",
+							"good_name": "\u5c0f\u7c73\u8def\u7531\u56683A",
+							"pic_id": 115,
+							"good_type_id": 462,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/a2737095b78bc41f0b24e69ab5d50435.jpg",
+							"good_category": "\u8def\u7531"
+						}, {
+							"isNew": true,
+							"good_id": "5825",
+							"good_name": "\u5c0f\u7c73\u8def\u7531\u56683G",
+							"pic_id": 116,
+							"good_type_id": 462,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/25faafc334b8aef6682fec702528c4da.jpg",
+							"good_category": "\u8def\u7531"
+						}, {
+							"isNew": true,
+							"good_id": "8335",
+							"good_name": "\u7c73\u8fde\u5361\u968f\u8eab\u8def\u7531\u5668\u5957\u88c5",
+							"pic_id": 117,
+							"good_type_id": 462,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/180009c51ef1b85a9f71b4c2c94d17f5.jpg",
+							"good_category": "\u8def\u7531"
+						}, {
+							"isNew": true,
+							"good_id": "890",
+							"good_name": "WiFi\u653e\u5927\u5668",
+							"pic_id": 118,
+							"good_type_id": 462,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/9fa0bf10b6b653a19969054096234def.jpg",
+							"good_category": "\u8def\u7531"
+						}
+					],
+					"name": "\u8def\u7531\u5668"
+				}, {
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "5501",
+							"good_name": "\u7535\u529b\u732b \u5957\u88c5",
+							"pic_id": 119,
+							"good_type_id": 462,
+							"good_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a688c0c2cf5e7095de70b8a540455271.png",
+							"good_category": "\u8def\u7531"
+						}, {
+							"isNew": true,
+							"good_id": "6297",
+							"good_name": "\u7535\u529b\u732b \u5355\u53ea\u7248",
+							"pic_id": 120,
+							"good_type_id": 462,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/c67144a6b1459eab278568914944335d.jpg",
+							"good_category": "\u8def\u7531"
+						}
+					],
+					"name": "\u7535\u529b\u732b"
+				}, {
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "4913",
+							"good_name": "\u5c0f\u7c73WiFi\u653e\u5927\u5668 2",
+							"pic_id": 121,
+							"good_type_id": 462,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/9fa0bf10b6b653a19969054096234def.jpg",
+							"good_category": "\u8def\u7531"
+						}, {
+							"isNew": true,
+							"good_id": "6298",
+							"good_name": "WiFi\u653e\u5927\u5668Pro",
+							"pic_id": 122,
+							"good_type_id": 462,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/56ec7a6f8bdc99809b448fa6e80eb320.jpg",
+							"good_category": "\u8def\u7531"
+						}
+					],
+					"name": "WIFI\u653e\u5927\u5668"
+				}
+			],
+			"img_url": "//i8.mifile.cn/v1/a1/ff205815-61e1-ef9f-d7d2-5650f1224c4b.webp?w=750&h=300&bg=DDDDE2",
+			"rpic_id": 6
+		}, {
+			"nav_id": 871,
+			"nav_name": "\u51fa\u884c",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "525",
+							"good_name": "\u5e73\u8861\u8f66",
+							"pic_id": 123,
+							"good_type_id": 871,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/6c35232de6adf01edf626a01c7947f1c.png",
+							"good_category": "\u51fa\u884c"
+						}, {
+							"isNew": true,
+							"good_id": "4984",
+							"good_name": "\u6ed1\u677f\u8f66",
+							"pic_id": 124,
+							"good_type_id": 871,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/13434bffc3b94eccc70f29ac2ede378a.jpg",
+							"good_category": "\u51fa\u884c"
+						}, {
+							"isNew": true,
+							"good_id": "3922",
+							"good_name": "\u81ea\u884c\u8f66",
+							"pic_id": 125,
+							"good_type_id": 871,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/942957aeee2db7a21bec24739c9698b5.jpg",
+							"good_category": "\u51fa\u884c"
+						}, {
+							"isNew": true,
+							"good_id": "635",
+							"good_name": "\u667a\u80fd\u540e\u89c6\u955c",
+							"pic_id": 126,
+							"good_type_id": 871,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/27758cdd537d224dd6997512c561ec21.jpg",
+							"good_category": "\u51fa\u884c"
+						}, {
+							"isNew": true,
+							"good_id": "873",
+							"good_name": "\u667a\u80fd\u8bb0\u5f55\u4eea",
+							"pic_id": 127,
+							"good_type_id": 871,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/50658c6368c4638b15eb692a9c2e31e5.jpg",
+							"good_category": "\u51fa\u884c"
+						}, {
+							"isNew": true,
+							"good_id": "7627",
+							"good_name": "\u8f66\u8f7d\u9006\u53d8\u5668",
+							"pic_id": 128,
+							"good_type_id": 871,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/61472c3fcd181959055551e5c73aafec.jpg",
+							"good_category": "\u51fa\u884c"
+						}, {
+							"isNew": true,
+							"good_id": "546",
+							"good_name": "\u8f66\u8f7d\u7a7a\u6c14\u51c0\u5316\u5668",
+							"pic_id": 129,
+							"good_type_id": 871,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/ce8b3a94134ddf69f89fb4fe7ed72e96.jpg",
+							"good_category": "\u51fa\u884c"
+						}, {
+							"isNew": true,
+							"good_id": "534",
+							"good_name": "\u5e73\u8861\u8f66\u914d\u4ef6",
+							"pic_id": 130,
+							"good_type_id": 871,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/1b338e3be2e0f571d39ed28c3175a68f.jpg",
+							"good_category": "\u51fa\u884c"
+						}, {
+							"isNew": true,
+							"good_id": "8914",
+							"good_name": "\u5bf9\u8bb2\u673a",
+							"pic_id": 131,
+							"good_type_id": 871,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/05c5b22c8ae030b6c5de7d36114a32e4.jpg",
+							"good_category": "\u51fa\u884c"
+						}
+					],
+					"name": "\u51fa\u884c"
+				}
+			],
+			"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/55a9f5db1e6cd217a27b6b59d64509cd.jpg?w=750&h=300&bg=FFFFFF",
+			"rpic_id": 7
+		}, {
+			"nav_id": 874,
+			"nav_name": "\u7a7f\u6234",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "111",
+							"good_name": "\u624b\u73af",
+							"pic_id": 132,
+							"good_type_id": 874,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/aba8aeb2ae0b44e46fd9d5ed83bb3a99.png",
+							"good_category": "\u7a7f\u6234"
+						}, {
+							"isNew": true,
+							"good_id": "867",
+							"good_name": "\u667a\u80fd\u624b\u8868",
+							"pic_id": 133,
+							"good_type_id": 874,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/d15b7dc7adbf00177677b22166e66a55.png",
+							"good_category": "\u7a7f\u6234"
+						}, {
+							"isNew": true,
+							"good_id": "636",
+							"good_name": "VR",
+							"pic_id": 134,
+							"good_type_id": 874,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/11d94f5d911f2d9713d5bd5b374c2ae1.jpg",
+							"good_category": "\u7a7f\u6234"
+						}
+					],
+					"name": "\u7a7f\u6234"
+				}
+			],
+			"img_url": "//i8.mifile.cn/v1/a1/12ff1518-0d4e-516d-173b-97451db7e71d.webp?w=750&h=300&bg=DBD0C1",
+			"rpic_id": 8
+		}, {
+			"nav_id": 461,
+			"nav_name": "\u667a\u80fd",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "528",
+							"good_name": "\u667a\u80fd\u5bb6\u5ead",
+							"pic_id": 135,
+							"good_type_id": 461,
+							"good_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/60c481917f13192c4c98e1503c967b4a.png",
+							"good_category": "\u667a\u80fd"
+						}, {
+							"isNew": true,
+							"good_id": "538",
+							"good_name": "\u65e0\u4eba\u673a",
+							"pic_id": 136,
+							"good_type_id": 461,
+							"good_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c97e1f3665ce0d2b1fe33f917c6a38ef.png",
+							"good_category": "\u667a\u80fd"
+						}, {
+							"isNew": true,
+							"good_id": "647",
+							"good_name": "\u6444\u50cf\u673a",
+							"pic_id": 137,
+							"good_type_id": 461,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/39d9e95e0eca92582b61820a7bee39cf.jpg",
+							"good_category": "\u667a\u80fd"
+						}, {
+							"isNew": true,
+							"good_id": "643",
+							"good_name": "\u7167\u76f8\u673a",
+							"pic_id": 138,
+							"good_type_id": 461,
+							"good_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/bb492da9536e6c4e737e5e74e59f2331.png",
+							"good_category": "\u667a\u80fd"
+						}, {
+							"isNew": true,
+							"good_id": "891",
+							"good_name": "\u5c0f\u7231\u97f3\u7bb1",
+							"pic_id": 139,
+							"good_type_id": 461,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/1f389ef88be348742bc660d26facf5d6.jpg",
+							"good_category": "\u667a\u80fd"
+						}, {
+							"isNew": true,
+							"good_id": "8790",
+							"good_name": "\u5c0f\u7231\u667a\u80fd\u95f9\u949f",
+							"pic_id": 140,
+							"good_type_id": 461,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/b9ed4f0f0bc26f45ddc1b72f7fede673.jpg",
+							"good_category": "\u667a\u80fd"
+						}, {
+							"isNew": true,
+							"good_id": "903",
+							"good_name": "\u6d17\u624b\u673a",
+							"pic_id": 141,
+							"good_type_id": 461,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/a1b603428566e016e1524f7c75cb6894.jpg",
+							"good_category": "\u667a\u80fd"
+						}
+					],
+					"name": "\u667a\u80fd"
+				}
+			],
+			"img_url": "//i8.mifile.cn/v1/a1/d5c4dbf2-1f00-e781-9547-1755db662801.webp?w=750&h=300&bg=D8C8B8",
+			"rpic_id": 9
+		}, {
+			"nav_id": 463,
+			"nav_name": "\u7535\u6e90",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "564",
+							"good_name": "\u79fb\u52a8\u7535\u6e90",
+							"pic_id": 142,
+							"good_type_id": 463,
+							"good_img": "//i8.mifile.cn/v1/a1/3563cadb-795d-2240-c83d-9aeedd67ff4e!200x200.jpg",
+							"good_category": "\u7535\u6e90"
+						}, {
+							"isNew": true,
+							"good_id": "6271",
+							"good_name": "\u968f\u8eab\u624b\u7535",
+							"pic_id": 143,
+							"good_type_id": 463,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/79de341c267f445286a356c6e898ea8c.jpg",
+							"good_category": "\u7535\u6e90"
+						}, {
+							"isNew": true,
+							"good_id": "7676",
+							"good_name": "ZMI\u5145\u7535\u5b9d",
+							"pic_id": 144,
+							"good_type_id": 463,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/132bd6fa010d6df05e062c05473d3674.jpg",
+							"good_category": "\u7535\u6e90"
+						}, {
+							"isNew": true,
+							"good_id": "567",
+							"good_name": "\u7535\u6e90\u914d\u4ef6",
+							"pic_id": 145,
+							"good_type_id": 463,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/f1730220e426bfdd9c0ca0e257a8a35b.jpg",
+							"good_category": "\u7535\u6e90"
+						}
+					],
+					"name": "\u7535\u6e90"
+				}
+			],
+			"img_url": "//i8.mifile.cn/v1/a1/46c35310-1039-d412-a688-c78fca114234.webp?w=750&h=300&bg=A0B7C2",
+			"rpic_id": 10
+		}, {
+			"nav_id": 876,
+			"nav_name": "\u5065\u5eb7",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "572",
+							"good_name": "\u5243\u987b\u5200",
+							"pic_id": 146,
+							"good_type_id": 876,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/3f31f669e346a05df76c673bf48378b4.jpg",
+							"good_category": "\u5065\u5eb7"
+						}, {
+							"isNew": true,
+							"good_id": "678",
+							"good_name": "\u7259\u5237",
+							"pic_id": 147,
+							"good_type_id": 876,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/fbc14b5b4f7c06b53e1e70af21c5784a.png",
+							"good_category": "\u5065\u5eb7"
+						}, {
+							"isNew": true,
+							"good_id": "5297",
+							"good_name": "\u4f53\u8102\u79e4",
+							"pic_id": 148,
+							"good_type_id": 876,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/a4b65e8fa2283eb4f156eb67e7a9347e.jpg",
+							"good_category": "\u5065\u5eb7"
+						}, {
+							"isNew": true,
+							"good_id": "1945",
+							"good_name": "\u4f53\u91cd\u79e4",
+							"pic_id": 149,
+							"good_type_id": 876,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/4845678454b5190991de94cfd4d99654.jpg",
+							"good_category": "\u5065\u5eb7"
+						}, {
+							"isNew": true,
+							"good_id": "3674",
+							"good_name": "\u8840\u538b\u8ba1",
+							"pic_id": 150,
+							"good_type_id": 876,
+							"good_img": "//i8.mifile.cn/v1/a1/T14BVjB_YT1R4cSCrK.png",
+							"good_category": "\u5065\u5eb7"
+						}, {
+							"isNew": true,
+							"good_id": "7806",
+							"good_name": "\u4f53\u6e29\u8ba1",
+							"pic_id": 151,
+							"good_type_id": 876,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/e37db31d449c503bc5c18caee269a4be.jpg",
+							"good_category": "\u5065\u5eb7"
+						}
+					],
+					"name": "\u5065\u5eb7"
+				}
+			],
+			"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0c177037f9584ae4a0d0f15928f36602.jpg?w=750&h=300&bg=FFFFFF",
+			"rpic_id": 11
+		}, {
+			"nav_id": 803,
+			"nav_name": "\u706f\u5177",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "806",
+							"good_name": "\u5438\u9876\u706f",
+							"pic_id": 152,
+							"good_type_id": 803,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/407abb8cd9df8e5b524e43bc2f7048c6.jpg",
+							"good_category": "\u706f\u5177"
+						}, {
+							"isNew": true,
+							"good_id": "807",
+							"good_name": "\u53f0\u706f",
+							"pic_id": 153,
+							"good_type_id": 803,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/4f1f3423af646b5182dd211ac7be7eaf.jpg",
+							"good_category": "\u706f\u5177"
+						}, {
+							"isNew": true,
+							"good_id": "808",
+							"good_name": "\u5e8a\u5934\u706f",
+							"pic_id": 154,
+							"good_type_id": 803,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/015406a29c57c055210fd2364ab06a07.jpg",
+							"good_category": "\u706f\u5177"
+						}, {
+							"isNew": true,
+							"good_id": "6105",
+							"good_name": "\u591c\u706f",
+							"pic_id": 155,
+							"good_type_id": 803,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/9280e02454fb1f17ace2c595c2ea6881.jpg",
+							"good_category": "\u706f\u5177"
+						}, {
+							"isNew": true,
+							"good_id": "7918",
+							"good_name": "\u7b52\u706f",
+							"pic_id": 156,
+							"good_type_id": 803,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/8df34177bd33bc990b90d4505fa0eaf2.jpg",
+							"good_category": "\u706f\u5177"
+						}, {
+							"isNew": true,
+							"good_id": "825",
+							"good_name": "\u706f\u6ce1",
+							"pic_id": 157,
+							"good_type_id": 803,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/c4ecc8b98846f10c1b36cd503723d405.jpg",
+							"good_category": "\u706f\u5177"
+						}
+					],
+					"name": "\u706f\u5177"
+				}
+			],
+			"img_url": "//i8.mifile.cn/v1/a1/4ca37331-b7a7-6cb9-1479-ee0478ec6e2a.webp?w=750&h=300&bg=F8B9AB",
+			"rpic_id": 12
+		}, {
+			"nav_id": 727,
+			"nav_name": "\u513f\u7ae5",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "732",
+							"good_name": "\u513f\u7ae5\u624b\u8868",
+							"pic_id": 158,
+							"good_type_id": 727,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/dbfe1ea1c2c5132eb6b88857798dde89.jpg",
+							"good_category": "\u513f\u7ae5"
+						}, {
+							"isNew": true,
+							"good_id": "736",
+							"good_name": "\u65e9\u6559\u542f\u667a",
+							"pic_id": 159,
+							"good_type_id": 727,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/af51d715f00e1fab7b59a62909235116.jpg",
+							"good_category": "\u513f\u7ae5"
+						}, {
+							"isNew": true,
+							"good_id": "784",
+							"good_name": "\u9065\u63a7\u7535\u52a8",
+							"pic_id": 160,
+							"good_type_id": 727,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/553b5c01820c844565abe64e50bba323.jpg",
+							"good_category": "\u513f\u7ae5"
+						}, {
+							"isNew": true,
+							"good_id": "754",
+							"good_name": "\u76ca\u667a\u79ef\u6728",
+							"pic_id": 161,
+							"good_type_id": 727,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/afd8566fb23e3f9052c8bef885ef57f1.jpg",
+							"good_category": "\u513f\u7ae5"
+						}, {
+							"isNew": true,
+							"good_id": "8107",
+							"good_name": "\u513f\u7ae5\u6ed1\u677f\u8f66",
+							"pic_id": 162,
+							"good_type_id": 727,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/445fe5c8099b0f238bf8aa173bcfdf17.jpg",
+							"good_category": "\u513f\u7ae5"
+						}, {
+							"isNew": true,
+							"good_id": "6528",
+							"good_name": "\u513f\u7ae5\u4e66\u5305",
+							"pic_id": 163,
+							"good_type_id": 727,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/2e088409a099ecbc1e305623f79ec8e7.jpg",
+							"good_category": "\u513f\u7ae5"
+						}, {
+							"isNew": true,
+							"good_id": "8878",
+							"good_name": "\u513f\u7ae5\u62c9\u6746\u7bb1",
+							"pic_id": 164,
+							"good_type_id": 727,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/0789092085320b6b3469be23c8b6a385.png",
+							"good_category": "\u513f\u7ae5"
+						}, {
+							"isNew": true,
+							"good_id": "9029",
+							"good_name": "\u5a74\u513f\u63a8\u8f66",
+							"pic_id": 165,
+							"good_type_id": 727,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/18a82e7cda6ecbc22ecee7ac927d6ff9.jpg",
+							"good_category": "\u513f\u7ae5"
+						}
+					],
+					"name": "\u513f\u7ae5"
+				}
+			],
+			"img_url": "//i8.mifile.cn/v1/a1/6911e352-c2b6-559e-2561-aff4c16d8d83.webp?w=750&h=300&bg=EAEAEA",
+			"rpic_id": 13
+		}, {
+			"nav_id": 877,
+			"nav_name": "\u63d2\u7ebf\u677f",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "565",
+							"good_name": "\u63d2\u7ebf\u677f \u542bUSB",
+							"pic_id": 166,
+							"good_type_id": 877,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/2f68168635f76716669e70d3b0299b3d.jpg",
+							"good_category": "\u63d2\u7ebf\u677f"
+						}, {
+							"isNew": true,
+							"good_id": "566",
+							"good_name": "\u63d2\u7ebf\u677f ",
+							"pic_id": 167,
+							"good_type_id": 877,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/319cc63ce3fdcd15d0c6ca77c30de4b1.png",
+							"good_category": "\u63d2\u7ebf\u677f"
+						}, {
+							"isNew": true,
+							"good_id": "888",
+							"good_name": "\u8f6c\u6362\u5668",
+							"pic_id": 168,
+							"good_type_id": 877,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/c67b564ee596efda00bfc5ff5b282ad6.jpg",
+							"good_category": "\u63d2\u7ebf\u677f"
+						}
+					],
+					"name": "\u63d2\u7ebf\u677f"
+				}
+			],
+			"img_url": "//i8.mifile.cn/v1/a1/83630177-acaf-47a1-c9a4-0eee0227c9f9.webp?w=750&h=300&bg=D7E4E9",
+			"rpic_id": 14
+		}, {
+			"nav_id": 464,
+			"nav_name": "\u97f3\u9891",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "883",
+							"good_name": "\u5c0f\u7231\u97f3\u7bb1",
+							"pic_id": 169,
+							"good_type_id": 464,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/1f389ef88be348742bc660d26facf5d6.jpg",
+							"good_category": "\u97f3\u9891"
+						}, {
+							"isNew": true,
+							"good_id": "577",
+							"good_name": "\u7ebf\u63a7\u8033\u673a",
+							"pic_id": 170,
+							"good_type_id": 464,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/11ad3681debb4a8d59a2ed600ef8bb5b.png",
+							"good_category": "\u97f3\u9891"
+						}, {
+							"isNew": true,
+							"good_id": "578",
+							"good_name": "\u84dd\u7259\u8033\u673a",
+							"pic_id": 171,
+							"good_type_id": 464,
+							"good_img": "//i8.mifile.cn/v1/a1/7b45823a-9913-5871-55c1-82b83c92ec32!200x200.jpg",
+							"good_category": "\u97f3\u9891"
+						}, {
+							"isNew": true,
+							"good_id": "579",
+							"good_name": "\u5934\u6234\u5f0f\u8033\u673a",
+							"pic_id": 172,
+							"good_type_id": 464,
+							"good_img": "//i8.mifile.cn/v1/a1/eead143a-3672-f86b-75cc-06dcc1492c33!200x200.jpg",
+							"good_category": "\u97f3\u9891"
+						}, {
+							"isNew": true,
+							"good_id": "624",
+							"good_name": "\u54c1\u724c\u8033\u673a",
+							"pic_id": 173,
+							"good_type_id": 464,
+							"good_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c45a549683b997d687b8b4071463689e.png",
+							"good_category": "\u97f3\u9891"
+						}, {
+							"isNew": true,
+							"good_id": "580",
+							"good_name": "\u84dd\u7259\u97f3\u7bb1",
+							"pic_id": 174,
+							"good_type_id": 464,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/f67844440e7b14c8b966e5106f33214e.jpg",
+							"good_category": "\u97f3\u9891"
+						}
+					],
+					"name": "\u97f3\u9891"
+				}
+			],
+			"img_url": "//i8.mifile.cn/v1/a1/a79e5f05-f7f6-7beb-519d-000a70b6aa63.webp?w=750&h=300&bg=AFD1E1",
+			"rpic_id": 15
+		}, {
+			"nav_id": 465,
+			"nav_name": "\u7bb1\u5305",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "713",
+							"good_name": "\u65c5\u884c\u7bb1",
+							"pic_id": 175,
+							"good_type_id": 465,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/f8063766da26a8c01c7b49cbe5628e74.png",
+							"good_category": "\u7bb1\u5305"
+						}, {
+							"isNew": true,
+							"good_id": "8621",
+							"good_name": "\u5c0f\u80cc\u5305",
+							"pic_id": 176,
+							"good_type_id": 465,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/4267a8e5258349137deaf6a8b929decc.jpg",
+							"good_category": "\u7bb1\u5305"
+						}, {
+							"isNew": true,
+							"good_id": "640",
+							"good_name": "\u53cc\u80a9\u5305",
+							"pic_id": 177,
+							"good_type_id": 465,
+							"good_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/11a4655745ee2f19fdc356f3fba57648.png",
+							"good_category": "\u7bb1\u5305"
+						}, {
+							"isNew": true,
+							"good_id": "695",
+							"good_name": "\u94b1\u5305",
+							"pic_id": 178,
+							"good_type_id": 465,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/ca3ca7638dfa0bab1afb8c395d3f6f5d.jpg",
+							"good_category": "\u7bb1\u5305"
+						}, {
+							"isNew": true,
+							"good_id": "3460",
+							"good_name": "\u80f8\u5305",
+							"pic_id": 179,
+							"good_type_id": 465,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/946a645d030839664a48d2e160a4c7e2.jpg",
+							"good_category": "\u7bb1\u5305"
+						}, {
+							"isNew": true,
+							"good_id": "576",
+							"good_name": "\u6536\u7eb3\u5305",
+							"pic_id": 180,
+							"good_type_id": 465,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/3c6e95af5627c536655e89a5d8f9ad8e.jpg",
+							"good_category": "\u7bb1\u5305"
+						}
+					],
+					"name": "\u7bb1\u5305"
+				}
+			],
+			"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e1427d68aa443d779b24078c54fdcae0.jpg?w=750&h=300&bg=FFFFFF",
+			"rpic_id": 16
+		}, {
+			"nav_id": 466,
+			"nav_name": "\u751f\u6d3b",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "838",
+							"good_name": "\u9a71\u868a\u5668",
+							"pic_id": 181,
+							"good_type_id": 466,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/6ab0453a9db0f0cd9709fefd08d54e75.jpg",
+							"good_category": "\u751f\u6d3b"
+						}, {
+							"isNew": true,
+							"good_id": "632",
+							"good_name": "\u773c\u955c",
+							"pic_id": 182,
+							"good_type_id": 466,
+							"good_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a8eba1e2d75beba2daad2678cf0718bb.png",
+							"good_category": "\u751f\u6d3b"
+						}, {
+							"isNew": true,
+							"good_id": "692",
+							"good_name": "\u96e8\u4f1e",
+							"pic_id": 183,
+							"good_type_id": 466,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/e4fb4c52532c098af5b1015aa4c61aec.jpg",
+							"good_category": "\u751f\u6d3b"
+						}, {
+							"isNew": true,
+							"good_id": "594",
+							"good_name": "\u5e8a\u57ab",
+							"pic_id": 184,
+							"good_type_id": 466,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/1454d4d897d954649c051d6628021455.png",
+							"good_category": "\u751f\u6d3b"
+						}, {
+							"isNew": true,
+							"good_id": "628",
+							"good_name": "\u6795\u5934",
+							"pic_id": 185,
+							"good_type_id": 466,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/1c27d0d59d56aa38b8518cbf302de0cf.png",
+							"good_category": "\u751f\u6d3b"
+						}, {
+							"isNew": true,
+							"good_id": "595",
+							"good_name": "\u6bdb\u5dfe/\u6d74\u5dfe",
+							"pic_id": 186,
+							"good_type_id": 466,
+							"good_img": "//i8.mifile.cn/a1/pms_1481881674.9521847!200x200.jpg",
+							"good_category": "\u751f\u6d3b"
+						}, {
+							"isNew": true,
+							"good_id": "771",
+							"good_name": "\u9970\u54c1",
+							"pic_id": 187,
+							"good_type_id": 466,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/212f406c9b20769349d313671024e9d5.jpg",
+							"good_category": "\u751f\u6d3b"
+						}, {
+							"isNew": true,
+							"good_id": "6125",
+							"good_name": "\u87ba\u4e1d\u5200",
+							"pic_id": 188,
+							"good_type_id": 466,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/b48ffd296339aa5a4ddf446d15edf4c4.jpg",
+							"good_category": "\u751f\u6d3b"
+						}, {
+							"isNew": true,
+							"good_id": "596",
+							"good_name": "\u7b7e\u5b57\u7b14",
+							"pic_id": 189,
+							"good_type_id": 466,
+							"good_img": "//i8.mifile.cn/v1/a1/6819bd3b-561c-123b-94e8-d7f1e5b24063!200x200.jpg",
+							"good_category": "\u751f\u6d3b"
+						}, {
+							"isNew": true,
+							"good_id": "619",
+							"good_name": "\u8fd0\u52a8\u978b",
+							"pic_id": 190,
+							"good_type_id": 466,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/1723d47d325ce7e0c473d4cb4c8f5d83.png",
+							"good_category": "\u751f\u6d3b"
+						}, {
+							"isNew": true,
+							"good_id": "712",
+							"good_name": "\u670d\u9970",
+							"pic_id": 191,
+							"good_type_id": 466,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/197b5056c965bfe55fe042e13d303995.jpg",
+							"good_category": "\u751f\u6d3b"
+						}, {
+							"isNew": true,
+							"good_id": "7403",
+							"good_name": "\u4fdd\u6e29\u676f",
+							"pic_id": 192,
+							"good_type_id": 466,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/376cd0f44f4832cd45055fdd1c036244.png",
+							"good_category": "\u751f\u6d3b"
+						}, {
+							"isNew": true,
+							"good_id": "726",
+							"good_name": "\u88ab\u5b50",
+							"pic_id": 193,
+							"good_type_id": 466,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/c8c82631e852457eb94a6ac2d104d275.png",
+							"good_category": "\u751f\u6d3b"
+						}, {
+							"isNew": true,
+							"good_id": "7721",
+							"good_name": "\u9488\u7ec7\u4ef6\u5957",
+							"pic_id": 194,
+							"good_type_id": 466,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/81a8cd1a7216c8e6094609514fe91eb2.jpg",
+							"good_category": "\u751f\u6d3b"
+						}, {
+							"isNew": true,
+							"good_id": "7237",
+							"good_name": "\u6c99\u53d1",
+							"pic_id": 195,
+							"good_type_id": 466,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/a64248bdf432d800166d6e7903f24bcd.png",
+							"good_category": "\u751f\u6d3b"
+						}, {
+							"isNew": true,
+							"good_id": "593",
+							"good_name": "\u7c73\u5154",
+							"pic_id": 196,
+							"good_type_id": 466,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/6a06b42cf3f0e8a7ddd682ec7f8cd0e4.jpg",
+							"good_category": "\u751f\u6d3b"
+						}, {
+							"isNew": true,
+							"good_id": "598",
+							"good_name": "\u8d34\u7eb8",
+							"pic_id": 197,
+							"good_type_id": 466,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/33c52f25da37d7bbd736d018b2bdde8a.jpg",
+							"good_category": "\u751f\u6d3b"
+						}, {
+							"isNew": true,
+							"good_id": "5774",
+							"good_name": "\u7b14\u8bb0\u672c",
+							"pic_id": 198,
+							"good_type_id": 466,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/bfd3cba7892ada2bc940b93364ddd498.jpg",
+							"good_category": "\u751f\u6d3b"
+						}, {
+							"isNew": true,
+							"good_id": "7716",
+							"good_name": "\u5c24\u514b\u91cc\u91cc",
+							"pic_id": 199,
+							"good_type_id": 466,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/8d7bc93cb3361547604fd053d4d54b14.png",
+							"good_category": "\u751f\u6d3b"
+						}, {
+							"isNew": true,
+							"good_id": "597",
+							"good_name": "\u53e3\u7f69",
+							"pic_id": 200,
+							"good_type_id": 466,
+							"good_img": "//i8.mifile.cn/a1/pms_1479182992.17725653!200x200.jpg",
+							"good_category": "\u751f\u6d3b"
+						}
+					],
+					"name": "\u751f\u6d3b"
+				}
+			],
+			"img_url": "//i8.mifile.cn/v1/a1/95c0b027-abef-3aad-97f1-3d10a55de06d.webp?w=750&h=300&bg=B8CEE5",
+			"rpic_id": 17
+		}, {
+			"nav_id": 878,
+			"nav_name": "\u914d\u4ef6",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "639",
+							"good_name": "\u6570\u636e\u7ebf",
+							"pic_id": 201,
+							"good_type_id": 878,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/4132366589e457f407b918fe48c89cb1.jpg",
+							"good_category": "\u914d\u4ef6"
+						}, {
+							"isNew": true,
+							"good_id": "442",
+							"good_name": "\u8f66\u5145",
+							"pic_id": 202,
+							"good_type_id": 878,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/32f27d7c236023926c69f61fd0660bc9.jpg",
+							"good_category": "\u914d\u4ef6"
+						}, {
+							"isNew": true,
+							"good_id": "649",
+							"good_name": "\u5145\u7535\u5668",
+							"pic_id": 203,
+							"good_type_id": 878,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/6ad236bf65fdf914af9ef0afc6b62756.png",
+							"good_category": "\u914d\u4ef6"
+						}, {
+							"isNew": true,
+							"good_id": "14",
+							"good_name": "\u7535\u6c60",
+							"pic_id": 204,
+							"good_type_id": 878,
+							"good_img": "//i1.mifile.cn/v1/a1/T13LVjBTdT1R4cSCrK.png",
+							"good_category": "\u914d\u4ef6"
+						}, {
+							"isNew": true,
+							"good_id": "504",
+							"good_name": "\u81ea\u62cd\u6746",
+							"pic_id": 205,
+							"good_type_id": 878,
+							"good_img": "//i8.mifile.cn/v1/a1/4a881b13-d65b-3d63-2bcd-063697074c81!200x200.jpg",
+							"good_category": "\u914d\u4ef6"
+						}, {
+							"isNew": true,
+							"good_id": "503",
+							"good_name": "\u5b58\u50a8\u5361",
+							"pic_id": 206,
+							"good_type_id": 878,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/8b34276a77f8bc0d4210105d227aeeed.jpg",
+							"good_category": "\u914d\u4ef6"
+						}, {
+							"isNew": true,
+							"good_id": "501",
+							"good_name": "\u4fdd\u62a4\u58f3",
+							"pic_id": 207,
+							"good_type_id": 878,
+							"good_img": "//i8.mifile.cn/v1/a1/T1P0LgBgdv1R4cSCrK.png",
+							"good_category": "\u914d\u4ef6"
+						}, {
+							"isNew": true,
+							"good_id": "500",
+							"good_name": "\u8d34\u819c",
+							"pic_id": 208,
+							"good_type_id": 878,
+							"good_img": "//i1.mifile.cn/v1/a1/T1XKE_B_hT1R4cSCrK.png",
+							"good_category": "\u914d\u4ef6"
+						}, {
+							"isNew": true,
+							"good_id": "3754",
+							"good_name": "\u624b\u673a\u652f\u67b6",
+							"pic_id": 209,
+							"good_type_id": 878,
+							"good_img": "//i8.mifile.cn/v1/a1/51fa8670-774c-c9d0-564b-cf5ff06e6773.png",
+							"good_category": "\u914d\u4ef6"
+						}, {
+							"isNew": true,
+							"good_id": "614",
+							"good_name": "\u5e73\u677f\u914d\u4ef6",
+							"pic_id": 210,
+							"good_type_id": 878,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/460a2308d6342b58da113430048fc6bc.jpg",
+							"good_category": "\u914d\u4ef6"
+						}, {
+							"isNew": true,
+							"good_id": "843",
+							"good_name": "\u9ed1\u9ca8\u914d\u4ef6",
+							"pic_id": 211,
+							"good_type_id": 878,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/4fe36e5ccbb5aa3733985c1083d323b1.jpg",
+							"good_category": "\u914d\u4ef6"
+						}, {
+							"isNew": true,
+							"good_id": "573",
+							"good_name": "\u5176\u4ed6\u914d\u4ef6",
+							"pic_id": 212,
+							"good_type_id": 878,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/f1730220e426bfdd9c0ca0e257a8a35b.jpg",
+							"good_category": "\u914d\u4ef6"
+						}
+					],
+					"name": "\u914d\u4ef6"
+				}
+			],
+			"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/1164e1130956bcc60c5cf8e5fc25f3b4.jpg?w=750&h=300&bg=FFFFFF",
+			"rpic_id": 18
+		}, {
+			"nav_id": 788,
+			"nav_name": "\u5bb6\u88c5",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "790",
+							"good_name": "\u5ba2\u5385",
+							"pic_id": 213,
+							"good_type_id": 788,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/32b41ce4670faa718b9647c48ae65800.png",
+							"good_category": "\u5bb6\u88c5"
+						}, {
+							"isNew": true,
+							"good_id": "791",
+							"good_name": "\u9910\u5385",
+							"pic_id": 214,
+							"good_type_id": 788,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/3bccdfec22c2671a2f79edf7a8833417.png",
+							"good_category": "\u5bb6\u88c5"
+						}, {
+							"isNew": true,
+							"good_id": "792",
+							"good_name": "\u4e3b\u5367",
+							"pic_id": 215,
+							"good_type_id": 788,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/d6bdc953c9b2905e4a57f33b997ad3dd.png",
+							"good_category": "\u5bb6\u88c5"
+						}, {
+							"isNew": true,
+							"good_id": "793",
+							"good_name": "\u6b21\u5367",
+							"pic_id": 216,
+							"good_type_id": 788,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/a9c118a005778b0cc18f2771c2a9487e.png",
+							"good_category": "\u5bb6\u88c5"
+						}, {
+							"isNew": true,
+							"good_id": "794",
+							"good_name": "\u53a8\u623f",
+							"pic_id": 217,
+							"good_type_id": 788,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/500a6da09138e29b585a60e22a2dbd11.png",
+							"good_category": "\u5bb6\u88c5"
+						}, {
+							"isNew": true,
+							"good_id": "795",
+							"good_name": "\u536b\u751f\u95f4",
+							"pic_id": 218,
+							"good_type_id": 788,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/2ee7bd8fd5eff33a2fe017c7ca475fb1.png",
+							"good_category": "\u5bb6\u88c5"
+						}, {
+							"isNew": true,
+							"good_id": "797",
+							"good_name": "\u7384\u5173",
+							"pic_id": 219,
+							"good_type_id": 788,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/7468b7d627ea76a6ef9a234023d3dae3.png",
+							"good_category": "\u5bb6\u88c5"
+						}, {
+							"isNew": true,
+							"good_id": "3619",
+							"good_name": "\u9633\u53f0",
+							"pic_id": 220,
+							"good_type_id": 788,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/a39ee4c212bde56e107d9e3e0a5dbff5.png",
+							"good_category": "\u5bb6\u88c5"
+						}
+					],
+					"name": "\u5bb6\u88c5"
+				}
+			],
+			"img_url": "//i8.mifile.cn/v1/a1/b7e193f8-511d-23e3-56d4-fcd3c03c5490.webp?w=750&h=300&bg=99CDD7",
+			"rpic_id": 19
+		}, {
+			"nav_id": 456,
+			"nav_name": "\u793c\u54c1",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "488",
+							"good_name": "\u9001\u957f\u8f88",
+							"pic_id": 221,
+							"good_type_id": 456,
+							"good_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3a168c437a5742f0c155fc240f4380de.png",
+							"good_category": "\u793c\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "489",
+							"good_name": "\u9001\u5b69\u5b50",
+							"pic_id": 222,
+							"good_type_id": 456,
+							"good_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/de206b80adc6dd2af3bd968e5b5e6ec0.png",
+							"good_category": "\u793c\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "490",
+							"good_name": "\u9001\u7537\u751f",
+							"pic_id": 223,
+							"good_type_id": 456,
+							"good_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/58becaea14744c9ec2d0f576a7413395.png",
+							"good_category": "\u793c\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "491",
+							"good_name": "\u9001\u5973\u751f",
+							"pic_id": 224,
+							"good_type_id": 456,
+							"good_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/78da4524339eaca2763fbc591a4fe3c1.png",
+							"good_category": "\u793c\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "5708",
+							"good_name": "\u4f18\u60e0\u5957\u88c5",
+							"pic_id": 225,
+							"good_type_id": 456,
+							"good_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/95dd58f46a0637a9c49582fe45223f48.png",
+							"good_category": "\u793c\u54c1"
+						}, {
+							"isNew": true,
+							"good_id": "652",
+							"good_name": "\u65b0\u54c1",
+							"pic_id": 226,
+							"good_type_id": 456,
+							"good_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/72579bfcba9ce6f0792e878fa9bcd75c.png",
+							"good_category": "\u793c\u54c1"
+						}
+					],
+					"name": "\u793c\u54c1"
+				}
+			],
+			"img_url": "//i8.mifile.cn/v1/a1/4c1e57d9-718b-f3d9-3a7e-840b2a5d563d.webp?w=750&h=300&bg=CA7D4D",
+			"rpic_id": 20
+		}, {
+			"nav_id": 737,
+			"nav_name": "\u670d\u52a1",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "7532",
+							"good_name": "\u624b\u673a\u4e0a\u95e8\u7ef4\u4fee",
+							"pic_id": 227,
+							"good_type_id": 737,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/c7038dcf41dfacafedf56beb35075e10.png",
+							"good_category": "\u670d\u52a1"
+						}
+					],
+					"name": "\u7279\u8272\u670d\u52a1"
+				}
+			],
+			"img_url": "//i8.mifile.cn/v1/a1/3e8b86d3-d1e9-1755-b681-bbe2d6e84067.webp?w=750&h=300&bg=45BAF4",
+			"rpic_id": 21
+		}, {
+			"nav_id": 852,
+			"nav_name": "\u4f1a\u5458\u5361",
+			"category": [
+				{
+					"items": [
+						{
+							"isNew": true,
+							"good_id": "8262",
+							"good_name": "\u4e91\u670d\u52a1\u7a7a\u95f4",
+							"pic_id": 228,
+							"good_type_id": 852,
+							"good_img": "//i8.mifile.cn/b2c-mimall-media/1ee7460bc31fc976d21997eedd83c008.jpg",
+							"good_category": "\u4f1a\u5458\u5361"
+						}
+					],
+					"name": "\u4f1a\u5458\u5361"
+				}
+			],
+			"img_url": "",
+			"rpic_id": ""
+		}, {
+			"nav_id": 670,
+			"nav_name": "\u7c73\u7c89\u5361",
+			"category": [
+				{
+					"items": [],
+					"name": "\u7535\u8bdd\u5361"
+				}
+			],
+			"img_url": "",
+			"rpic_id": ""
+		}, {
+			"nav_id": 468,
+			"nav_name": "\u96f6\u552e\u5e97",
+			"category": [
+				{
+					"items": [],
+					"name": "\u96f6\u552e\u5e97"
+				}
+			],
+			"img_url": "",
+			"rpic_id": ""
+		}
+	]
+}
